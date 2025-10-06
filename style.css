@@ -1,0 +1,22 @@
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9 {
+    border: 2px solid;
+    height: 70px;
+    width: 70px;
+    display: flex;
+}
+
+.row1,.row2,.row3 {
+    display: flex;
+}
+
+.game {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    height: 60px;
+    width: 60px;
+}
