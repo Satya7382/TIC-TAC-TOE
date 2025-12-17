@@ -50,7 +50,7 @@ check = () => {
             box.style.pointerEvents = "none";
         }
   }
-  if(!gamedone) {
-      alert("It's a tie");
-  }
+  // if(!gamedone) {
+  //     alert("It's a tie");
+  // }
 }
