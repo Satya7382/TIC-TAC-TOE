@@ -49,8 +49,8 @@ check = () => {
             let box = document.getElementById("b"+i);
             box.style.pointerEvents = "none";
         }
-    }
-    if(!gamedone) {
+  }
+  if(!gamedone) {
       alert("It's a tie");
   }
 }
